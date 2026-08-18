@@ -1,4 +1,4 @@
-# Hi there, I'm [ProManas] 👋
+# Hi there, I'm ProManas 👋
 
 ###  Web3 Developer & Protocol Builder
 Building decentralized applications, infrastructure dashboards, and smart contracts.
